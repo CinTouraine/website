@@ -42,10 +42,10 @@ permalinks:
 menu:
   main:
     - name: Home
-      url: /
+      url: /index.html
       weight: 1
-    - name: Pages
-      url: /Page/
+    - name: safeguarding
+      url: /safeguarding.html
       weight: 2
 
 #module:
