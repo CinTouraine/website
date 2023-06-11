@@ -1,3 +1,9 @@
+---
+title: "Community"
+date: 2023-04-26T23:17:23+01:00
+draft: false
+---
+
 _“I came that they may have life, and have it abundantly”_
 
 S. John 10:10

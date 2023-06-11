@@ -1,4 +1,9 @@
-## WHY ALCUIN?
+---
+title: "Why Alcuin?"
+date: 2023-04-26T23:17:23+01:00
+draft: false
+---
+## Why Alcuin?
 
 
 ***ALCUIN WAS AN IMPORTANT ENGLISH CHRISTIAN OF THE LATE 8TH AND EARLY

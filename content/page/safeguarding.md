@@ -1,3 +1,8 @@
+---
+title: "OUR CHAPLAINCY’S SAFEGUARDING POLICY"
+date: 2023-04-26T23:17:23+01:00
+draft: false
+---
 ##OUR CHAPLAINCY’S SAFEGUARDING POLICY
 
 The protection from harm of children and adults who may be vulnerable is of paramount importance to us.
