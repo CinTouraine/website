@@ -4,7 +4,7 @@ title: Touraine and the church of St Alcuin
 paginate: 5
 theme: ghostwriter
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
