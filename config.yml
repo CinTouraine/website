@@ -54,7 +54,7 @@ menu:
       url: /page/about/
       weight: 4
 
-module:
-  imports:
-  - path: github.com/jbub/ghostwriter
+#module:
+#  imports:
+#  - path: github.com/jbub/ghostwriter
 
