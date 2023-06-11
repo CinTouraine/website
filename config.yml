@@ -2,7 +2,7 @@ baseURL: https://churchintouraine.org
 languageCode: "en-GB"
 title: Touraine and the church of St Alcuin
 paginate: 5
-theme: stalcuin
+theme: ghostwriter
 
 enableRobotsTXT: true
 buildDrafts: false
