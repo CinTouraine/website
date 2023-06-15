@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>churchintouraine.org</title>
+    <link href="https://churchintouraine.org/feed.xml" rel="self" />
+    <link href="https://churchintouraine.org" />
+    <updated>2023-06-15T23:22:13+01:00</updated>
+    <author>
+        <name>Church of St Alcuin of York</name>
+    </author>
+    <id>https://churchintouraine.org</id>
+
+    <entry>
+        <title>Welcome to the Touraine and the church of St Alcuin of York </title>
+        <author>
+            <name>Church of St Alcuin of York</name>
+        </author>
+        <link href="https://churchintouraine.org/welcome-to-the-touraine-and-the-church-of-st-alcuin-of-york/"/>
+        <id>https://churchintouraine.org/welcome-to-the-touraine-and-the-church-of-st-alcuin-of-york/</id>
+
+        <updated>2023-06-15T23:22:13+01:00</updated>
+            <summary>
+                <![CDATA[
+                    ST ALCUIN’S is a worshipping community of the Diocese in Europe, the Church of England, and the worldwide Anglican Communion. We offer a very warm welcome to all who want to celebrate the love of God with us and hope you enjoy our service. We&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ST ALCUIN’S is a worshipping community of the Diocese in Europe,
+the Church of England,
+and the worldwide Anglican Communion.
+We offer a very warm welcome to all who want to celebrate the love of God with us and
+hope you enjoy our service.
+We come together to celebrate the presence of Christ in word and sacrament: the Holy
+Communion or Eucharist—
+    <em><strong>the Lord’s own Service
+    for the Lord’s own People
+    on the Lord’s own Day.</strong></em></p>
+<p>And so we follow Our Lord’s command *** “Do this in memory of me”***
+as the Church has done ever since her earliest days (Acts 2.42; Acts 20.7).</p>
+<p>We are part of the Church of England and our worship follows the Anglican pattern. But
+we are not an exclusive group: we are pleased to welcome people of any Christian
+background—or none. We aim to be a Church for every English-speaking Christian, a
+spiritual home for all who want to worship in English.</p>
+<p>As our name implies our home is the 2,366 square miles of the Indre-et-Loire département of France (Touraine is its traditional name), but we cover a much wider area than that. We draw regular worshippers from no fewer than three different regions.</p>
+<p>So, whether you live here, or are visiting, we warmly invite you to join us.</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

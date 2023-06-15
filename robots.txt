@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://churchintouraine.org/sitemap.xml
